@@ -1,0 +1,11 @@
+node_modules
+.npm-cache
+dist
+.git
+*.swp
+*.log
+.env
+.env.*
+coverage
+ui-*.png
+*.zip
